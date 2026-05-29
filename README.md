@@ -195,6 +195,22 @@ Sermaye sadece rakamlardan ibaret değildir; sosyolojik ve felsefi bir arka plan
 * 📖 **[Sürgün ve Para: Diaspora Ağlarının Finansal Refleksleri](docs/diaspora_networks.md)** — Aşkenazlar, Parsiler ve Denizaşırı Çinlilerin hayatta kalma stratejisi olarak finans.
 * 📖 **[Tekno-Feodalizm: Veri Derebeylikleri ve Yeni Serfler](docs/techno_feudalism.md)** — Silikon Vadisi elitlerinin dijital rantı nasıl topladığı.
 * 📖 **[Eski Para ve Yeni Para: Sermayenin Karakter Çatışması](docs/old_money_vs_new_money.md)** — Veblen'in izinde sessiz lüks ve şatafatlı tüketim arasındaki statü savaşı.
+* 📖 **[Sermayenin Jeopolitiği: Devletlerin Ölümü](docs/geopolitics_of_capital.md)** — BlackRock, Foucault ve ulus-ötesi şirket-imparatorluklar.
+* 📖 **[Liyakat Yanılsaması: Doğal Piyango](docs/the_illusion_of_meritocracy.md)** — Michael Sandel ve Rawls üzerinden, başarı efsanesinin çöküşü.
+* 📖 **[Kripto Oligarşisi ve Gölge Bankacılık](docs/crypto_and_shadow_banking.md)** — Binance, Tether ve devletin para basma tekelinin parçalanması.
+
+> *"Piyasayı yönlendiren görünmez el, aslında en çok kimin parası varsa onun cebindedir."*  
+> — **Adam Smith** (Uyarlanmıştır)
+
+> *"Dünyayı anlamak istiyorsan, gücün ve paranın nereye aktığına bak; çünkü irade oradadır."*  
+> — **Friedrich Nietzsche**
+
+### 🤖 Otomatik Ansiklopedi Motoru
+`sermaye-haritasi` sadece bir metin deposu değildir. Veritabanındaki `data/capital_registry.json` dosyasını kullanarak **otomatik ve dinamik** raporlar üretebilirsiniz:
+```bash
+python scripts/generate_markdown_report.py
+```
+Bu komut, `reports/` klasörünün içine anlık verilerle **[Küresel Sermaye Raporu](reports/wealth_report_2026.md)** oluşturur.
 
 ---
 
