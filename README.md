@@ -178,6 +178,17 @@ Sermaye, hiçbir zaman yalnızca "para" olmamıştır. O; tarihin en büyük kı
 
 
 
+## 📚 Felsefi Çerçeve ve Ansiklopedik Derinlik
+
+Sermaye sadece rakamlardan ibaret değildir; sosyolojik ve felsefi bir arka planı vardır. Veritabanımızdaki milyarderlerin nasıl ortaya çıktığını anlamak için hazırladığımız özel analiz dosyalarımızı inceleyin:
+
+* 📖 **[Sermaye Teorileri: Rakamların Arkasındaki Sosyoloji](docs/theories_of_capital.md)** — Bourdieu, Piketty ve Schumpeter ekseninde sermayenin üç hali.
+* 📖 **[Sürgün ve Para: Diaspora Ağlarının Finansal Refleksleri](docs/diaspora_networks.md)** — Aşkenazlar, Parsiler ve Denizaşırı Çinlilerin hayatta kalma stratejisi olarak finans.
+* 📖 **[Tekno-Feodalizm: Veri Derebeylikleri ve Yeni Serfler](docs/techno_feudalism.md)** — Silikon Vadisi elitlerinin dijital rantı nasıl topladığı.
+* 📖 **[Eski Para ve Yeni Para: Sermayenin Karakter Çatışması](docs/old_money_vs_new_money.md)** — Veblen'in izinde sessiz lüks ve şatafatlı tüketim arasındaki statü savaşı.
+
+---
+
 ## 🖼️ Görsel Hafıza: Analiz Çıktıları
 
 Kod tabanımızdaki analiz motorları tarafından üretilen güncel demografik ve sektörel izdüşümler:
