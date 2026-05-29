@@ -1,5 +1,7 @@
 # 🗺️ sermaye-haritasi (Global Capital Mapping Engine)
 
+![Sermaye Haritası Banner](assets/banner.png)
+
 > *"Kapitalizm bir uygarlık meselesidir; yüzyılların birikimini, toplumların ruhunu ve coğrafyanın kaderini tek bir bilançoda eritir."*  
 > — **Fernand Braudel**
 
