@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sermaye Haritası - Global Capital Mapping Engine</title>
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Rajdhani:wght@400;600;700&display=swap" rel="stylesheet">
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <!-- CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="matrix-bg"></div>
+    
+    <header class="glass-panel">
+        <h1>SERMAYE_HARİTASI</h1>
+        <p class="subtitle">Global Capital Mapping Engine v2.0</p>
+    </header>
+
+    <div class="quote-container glass-panel" id="quoteBox">
+        <p id="quoteText" class="quote-text">Sistem başlatılıyor...</p>
+        <p id="quoteAuthor" class="quote-author"></p>
+    </div>
+
+    <main class="dashboard-grid">
+        <section class="chart-section glass-panel">
+            <h2>Sektörel Dağılım</h2>
+            <div class="chart-container">
+                <canvas id="sectorChart"></canvas>
+            </div>
+        </section>
+
+        <section class="chart-section glass-panel">
+            <h2>Vatandaşlık Dağılımı</h2>
+            <div class="chart-container">
+                <canvas id="citizenshipChart"></canvas>
+            </div>
+        </section>
+
+        <section class="table-section glass-panel">
+            <h2>Canlı Sermaye Sicili (Top 120)</h2>
+            <div class="table-container">
+                <table id="registryTable">
+                    <thead>
+                        <tr>
+                            <th>Sıra</th>
+                            <th>İsim</th>
+                            <th>Net Varlık (Milyar $)</th>
+                            <th>Kaynak</th>
+                            <th>Etnik / Kültürel Kökler</th>
+                        </tr>
+                    </thead>
+                    <tbody id="tableBody">
+                        <!-- Data will be populated here -->
+                    </tbody>
+                </table>
+            </div>
+        </section>
+    </main>
+
+    <script src="app.js"></script>
+</body>
+</html>

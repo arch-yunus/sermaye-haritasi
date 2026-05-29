@@ -28,4 +28,11 @@ echo.
 echo Rastgele bir felsefi aforizma icin quote_generator baslatiliyor:
 python scripts\quote_generator.py
 
-pause
+echo.
+echo ==============================================
+echo 🌐 INTERAKTIF WEB DASHBOARD BASLATILIYOR...
+echo ==============================================
+echo Tarayicinizda http://localhost:8000/dashboard adresine gidin.
+echo (Kapatmak icin CTRL+C yapin)
+python -m http.server 8000
+

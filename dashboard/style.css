@@ -1,0 +1,188 @@
+:root {
+    --bg-color: #050505;
+    --glass-bg: rgba(15, 20, 25, 0.7);
+    --glass-border: rgba(0, 255, 170, 0.2);
+    --text-primary: #e0e0e0;
+    --text-secondary: #00ffaa;
+    --accent: #ff0055;
+    --font-heading: 'Orbitron', sans-serif;
+    --font-body: 'Rajdhani', sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: var(--bg-color);
+    color: var(--text-primary);
+    font-family: var(--font-body);
+    background-image: 
+        radial-gradient(circle at 15% 50%, rgba(0, 255, 170, 0.05) 0%, transparent 50%),
+        radial-gradient(circle at 85% 30%, rgba(255, 0, 85, 0.05) 0%, transparent 50%);
+    background-attachment: fixed;
+    min-height: 100vh;
+}
+
+/* Matrix Background Effect */
+.matrix-bg {
+    position: fixed;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: linear-gradient(to bottom, transparent 50%, rgba(0, 0, 0, 0.25) 50%);
+    background-size: 100% 4px;
+    z-index: -1;
+    pointer-events: none;
+}
+
+/* Glassmorphism Panel */
+.glass-panel {
+    background: var(--glass-bg);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid var(--glass-border);
+    border-radius: 12px;
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.5);
+}
+
+header {
+    text-align: center;
+    padding: 2rem 1rem;
+    margin: 2rem auto;
+    width: 90%;
+    max-width: 1200px;
+}
+
+h1 {
+    font-family: var(--font-heading);
+    font-size: 3rem;
+    margin: 0;
+    color: var(--text-secondary);
+    text-shadow: 0 0 10px rgba(0, 255, 170, 0.5);
+    letter-spacing: 2px;
+}
+
+.subtitle {
+    font-size: 1.2rem;
+    color: var(--text-primary);
+    margin-top: 0.5rem;
+    letter-spacing: 1px;
+}
+
+.quote-container {
+    margin: 0 auto 2rem;
+    width: 90%;
+    max-width: 1200px;
+    padding: 1.5rem;
+    text-align: center;
+    border-left: 4px solid var(--accent);
+}
+
+.quote-text {
+    font-size: 1.3rem;
+    font-style: italic;
+    margin: 0;
+    color: #fff;
+}
+
+.quote-author {
+    color: var(--text-secondary);
+    font-weight: 600;
+    margin-top: 0.8rem;
+}
+
+.dashboard-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto 2rem;
+}
+
+.chart-section {
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.chart-section h2 {
+    font-family: var(--font-heading);
+    color: var(--text-secondary);
+    margin-top: 0;
+    border-bottom: 1px solid var(--glass-border);
+    padding-bottom: 0.5rem;
+}
+
+.chart-container {
+    flex-grow: 1;
+    position: relative;
+    height: 300px;
+    width: 100%;
+}
+
+.table-section {
+    grid-column: 1 / -1;
+    padding: 1.5rem;
+}
+
+.table-section h2 {
+    font-family: var(--font-heading);
+    color: var(--accent);
+    margin-top: 0;
+    border-bottom: 1px solid var(--glass-border);
+    padding-bottom: 0.5rem;
+}
+
+.table-container {
+    overflow-x: auto;
+    max-height: 500px;
+    overflow-y: auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 1rem;
+    color: var(--text-primary);
+}
+
+th, td {
+    padding: 1rem;
+    text-align: left;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+th {
+    position: sticky;
+    top: 0;
+    background: rgba(10, 10, 10, 0.95);
+    color: var(--text-secondary);
+    font-family: var(--font-heading);
+    z-index: 10;
+}
+
+tbody tr:hover {
+    background-color: rgba(0, 255, 170, 0.05);
+    transition: background-color 0.3s ease;
+}
+
+/* Scrollbar Customization */
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+::-webkit-scrollbar-track {
+    background: rgba(0,0,0,0.3);
+}
+::-webkit-scrollbar-thumb {
+    background: var(--text-secondary);
+    border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: var(--accent);
+}
+
+@media (max-width: 768px) {
+    .dashboard-grid {
+        grid-template-columns: 1fr;
+    }
+    h1 { font-size: 2rem; }
+}

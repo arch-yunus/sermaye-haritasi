@@ -216,6 +216,19 @@ Bu komut, `reports/` klasörünün içine anlık verilerle **[Küresel Sermaye R
 
 ---
 
+## 🌐 İnteraktif Web Dashboard (Cyberpunk Arayüz)
+
+Proje artık sadece statik bir repo değildir. Karanlık temalı, glassmorphism (cam efekti) tabanlı, Chart.js destekli özel bir **Vanilla JS Web Dashboard** içerir. 
+
+Milyarderleri görsel olarak analiz etmek, interaktif sektör grafiklerini incelemek ve felsefi aforizmaları siberpunk bir ekranda okumak için terminalde şu komutu çalıştırın:
+
+```bash
+python -m http.server 8000
+```
+Ardından tarayıcınızda **[http://localhost:8000/dashboard](http://localhost:8000/dashboard)** adresine gidin. (Not: Windows kullanıcıları doğrudan `run.bat` dosyasına tıklayarak tüm süreci otomatik başlatabilirler.)
+
+---
+
 ## 🖼️ Görsel Hafıza: Analiz Çıktıları
 
 Kod tabanımızdaki analiz motorları tarafından üretilen güncel demografik ve sektörel izdüşümler:
