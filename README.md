@@ -15,6 +15,9 @@ Sermaye, hiçbir zaman yalnızca "para" olmamıştır. O; tarihin en büyük kı
 
 ---
 
+> *"Servet, güçtür."*  
+> — **Thomas Hobbes**, *Leviathan*
+
 ## 📊 Makro Veri Özeti & Metodoloji
 
 * **Veri Güncelliği:** Forbes / Bloomberg Küresel Canlı Veri Tabanı (Mayıs 2026)
@@ -198,6 +201,10 @@ Repo içeriğindeki veriler derinlemesine incelendiğinde, küresel sermayenin r
 * **Felsefi Kökler:** Tarihsel olarak Avrupa'daki fiziki mülkiyet (toprak/tarım) yasakları, bu topluluğu nesiller boyu "taşınabilir entelektüel sermayeye" (matematik, tıp, finans, hukuk) yönlendirmiştir. Fiziksel sınırların yıkılabileceği korkusu, tamamen soyut ve algoritmik sistemler kurma refleksini doğurmuştur.
 
 ### 2. Han Çinlileri (Üretim & Ölçek Mühendisliği)
+
+> *"Kazanmayı bilenler, koşullar henüz şekillenmeden zaferi tasarlayanlardır."*  
+> — **Sun Tzu**, *Savaş Sanatı*
+
 * **Karakteristik Semptom:** Batı sermayesinin aksine tamamen "fiziksel üretim, batarya, çip ve lojistik entegrasyon" ile "agresif algoritmalar" üzerine kuruludur.
 * **Felsefi Kökler:** Çin iç savaşı, Kültür Devrimi ve devasa mülteci geçmişleri, bu grupta inanılamaz derecede yüksek bir "hayatta kalma" güdüsü ve risk iştahı yaratmıştır. Maddeye hükmetme ve dünyayı fabrikaya çevirme vizyonu, tarihsel kıtlık sendromlarının bir antitezidir.
 
@@ -206,6 +213,10 @@ Repo içeriğindeki veriler derinlemesine incelendiğinde, küresel sermayenin r
 * **Felsefi Kökler:** Zerdüşt Pers göçmenleri olan Parsiler ve ticaret kastından gelen Guceratlılar, yüzyıllardır kapalı bir ticaret loncası kültürüyle korunmuştur. Güvenin sadece kan bağıyla sağlandığı bu coğrafyalarda, aile holdingleri birer mini-devlet gibi işler.
 
 ### 4. Anglo-Sakson "Eski Para" (Old Money) Dayanıklılığı
+
+> *"Zaman paradır. İtibar paradır. Para, kendi doğası gereği üretken ve çoğalgandır."*  
+> — **Benjamin Franklin** (Max Weber, *Protestan Ahlakı ve Kapitalizmin Ruhu*nda aktarır)
+
 * **Karakteristik Semptom:** Perakende, temel gıda, enerji ve madencilik gibi "dünya yıkılsa bile işlemeye devam edecek" dev fiziksel tekelleri tutarlar.
 * **Felsefi Kökler:** Protestan çalışma ahlakı ve mülkiyetin kutsallığı. Geleneksel "WASP" burjuvazisi, serveti şatafatla değil, kuşaklararası vakıflar, arazi sahipliği ve aile meclisleriyle sessizce korur. Onlar için sermaye, bir hanedanlık sancağıdır.
 
