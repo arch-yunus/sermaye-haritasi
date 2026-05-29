@@ -1,7 +1,16 @@
 # 🗺️ sermaye-haritasi (Global Capital Mapping Engine)
 
 > *"Kapitalizm bir uygarlık meselesidir; yüzyılların birikimini, toplumların ruhunu ve coğrafyanın kaderini tek bir bilançoda eritir."*  
-> — **Fernand Braudel**, *Maddi Uygarlık ve Kapitalizm*
+> — **Fernand Braudel**
+
+> *"Her büyük servetin arkasında bir sır yatar."*  
+> — **Honoré de Balzac**
+
+> *"Para, insanoğlunun yabancılaşmış kapasitesidir; o her şeye kadir oldukça, insan o kadar güçsüzleşir."*  
+> — **Karl Marx**
+
+> *"Servet, deniz suyu gibidir; ne kadar çok içerseniz, o kadar çok susarsınız."*  
+> — **Arthur Schopenhauer**
 
 Küresel ölçekte en büyük finansal ve endüstriyel gücü elinde tutan **ilk 120 ultra yüksek net değerli bireyin (UHNWI)** sosyolojik, coğrafi, sektörel ve etnik/ailevi köken ağlarını yapısal bir yaklaşımla inceleyen açık kaynaklı bir veri ve analiz deposudur.
 
