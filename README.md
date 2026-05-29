@@ -307,3 +307,25 @@ Yeni bir milyarderin köken şifrelerini eklemek veya analiz algoritmalarına fe
 > *"Tarih, sadece savaşların değil, mülkiyetin el değiştirmesinin kaydıdır."*  
 > — **İbn Haldun**, *Mukaddime*
 
+---
+
+## 🔚 Sonsöz: Kapitalin Kapanış Fragmanı
+
+Küresel Sermaye Sicili'nin derinliklerine indikçe, bu veri tabanının aslında modern dünyanın bir "kıyamet simülasyonu" olduğunu fark edersiniz. Rakamların büyüklüğü insan aklının sınırlarını aşmış, teknoloji elitleri adeta yeni tanrılara dönüşmüştür.
+
+> *"Büyük servet ile büyük erdem bir arada bulunamaz."*  
+> — **Platon**
+
+> *"Kapitalizm, ruhsuz uzmanların ve kalpsiz hazcıların demir kafesidir."*  
+> — **Max Weber**
+
+Bugün listedeki milyarderlerin sahip olduğu güç, antik çağ imparatorlarının hayal bile edemeyeceği bir dijital ve algoritmik tahakküm ağıdır. Artık toprak fethetmiyorlar; zihinleri, verileri ve insanlığın dikkatini fethediyorlar.
+
+> *"Günümüzde zenginlik, nesnelerin birikimi değil, göstergelerin ve simgelerin tekelidir."*  
+> — **Jean Baudrillard**
+
+> *"Kapitalizmin sonunu hayal etmek, dünyanın sonunu hayal etmekten daha zor hale gelmiştir."*  
+> — **Slavoj Žižek**
+
+Bu repo, o "hayal edilemeyen" gücün röntgenidir. Kodlara ve rakamlara iyi bakın; çünkü geleceğin efendileri orada yazılı.
+
