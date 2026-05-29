@@ -4,7 +4,10 @@ const quotes = [
     { text: "Geçmiş, geleceği yutuyor. Mirasla devralınan servetler, üretilen servetlerden daha hızlı büyüdüğünde, kapitalizm kendi liyakat efsanesini yok eder.", author: "Thomas Piketty" },
     { text: "Kapitalizm ölmedi, daha kötü bir şeye dönüştü: Tekno-Feodalizm.", author: "Yanis Varoufakis" },
     { text: "Kazanmayı bilenler, koşullar henüz şekillenmeden zaferi tasarlayanlardır.", author: "Sun Tzu" },
-    { text: "Servet, güçtür.", author: "Thomas Hobbes" }
+    { text: "Servet, güçtür.", author: "Thomas Hobbes" },
+    { text: "Bir yerde aşırı servet birikmişse, bil ki orada mutlaka hakkı yenmiş yoksullar vardır.", author: "Hz. Ali" },
+    { text: "Gereğinden fazla servet, sadece zevkperestlik getirmez; aynı zamanda asabiyeti çürütür ve medeniyetin çöküşünü başlatır.", author: "İbn Haldun" },
+    { text: "Kapitalizm, insanı kendi ürettiği nesnelerin esiri yapan modern bir putperestliktir.", author: "Ali Şeriati" }
 ];
 
 // Display random quote

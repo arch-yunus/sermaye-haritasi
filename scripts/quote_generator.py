@@ -13,7 +13,10 @@ quotes = [
     ("Zaman paradır. İtibar paradır. Para, kendi doğası gereği üretken ve çoğalgandır.", "Benjamin Franklin / Max Weber"),
     ("Kazanmayı bilenler, koşullar henüz şekillenmeden zaferi tasarlayanlardır.", "Sun Tzu"),
     ("Servet, güçtür.", "Thomas Hobbes"),
-    ("Tarih, sadece savaşların değil, mülkiyetin el değiştirmesinin kaydıdır.", "İbn Haldun")
+    ("Tarih, sadece savaşların değil, mülkiyetin el değiştirmesinin kaydıdır.", "İbn Haldun"),
+    ("Bir yerde aşırı servet birikmişse, bil ki orada mutlaka hakkı yenmiş yoksullar vardır.", "Hz. Ali"),
+    ("Gereğinden fazla servet, sadece zevkperestlik getirmez; aynı zamanda asabiyeti (toplumsal dayanışmayı) çürütür ve medeniyetin çöküşünü başlatır.", "İbn Haldun"),
+    ("Kapitalizm, insanı kendi ürettiği nesnelerin esiri yapan modern bir putperestliktir.", "Ali Şeriati")
 ]
 
 def print_quote():

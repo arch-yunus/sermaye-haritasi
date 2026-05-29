@@ -209,6 +209,9 @@ Sermaye sadece rakamlardan ibaret değildir; sosyolojik ve felsefi bir arka plan
 > *"Dünyayı anlamak istiyorsan, gücün ve paranın nereye aktığına bak; çünkü irade oradadır."*  
 > — **Friedrich Nietzsche**
 
+> *"Bir yerde aşırı servet birikmişse, bil ki orada mutlaka hakkı yenmiş yoksullar vardır."*  
+> — **Hz. Ali**
+
 ### 🤖 Otomatik Ansiklopedi Motoru
 `sermaye-haritasi` sadece bir metin deposu değildir. Veritabanındaki `data/capital_registry.json` dosyasını kullanarak **otomatik ve dinamik** raporlar üretebilirsiniz:
 ```bash
