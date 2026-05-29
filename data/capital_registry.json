@@ -1,0 +1,938 @@
+[
+    {
+        "rank": 1,
+        "name": "Elon Musk",
+        "net_worth_billions": 839.1,
+        "company_source": "Tesla, SpaceX, xAI",
+        "citizenship": "ABD / G. Afrika",
+        "ethnicity_background": "Afrikaner (Hollanda/Alman kökenli Güney Afrikalı) & İngiliz-Kanada"
+    },
+    {
+        "rank": 2,
+        "name": "Larry Page",
+        "net_worth_billions": 257.0,
+        "company_source": "Google (Alphabet)",
+        "citizenship": "ABD",
+        "ethnicity_background": "Aşkenaz Yahudisi (Anne tarafı) & İngiliz Anglo-Sakson"
+    },
+    {
+        "rank": 3,
+        "name": "Sergey Brin",
+        "net_worth_billions": 237.0,
+        "company_source": "Google (Alphabet)",
+        "citizenship": "ABD",
+        "ethnicity_background": "Rusya Yahudisi (Aşkenaz diasporası - Moskova göçmeni)"
+    },
+    {
+        "rank": 4,
+        "name": "Jeff Bezos",
+        "net_worth_billions": 224.0,
+        "company_source": "Amazon",
+        "citizenship": "ABD",
+        "ethnicity_background": "İspanyol/Kastilya (Üvey baba/kültürel) & İngiliz-Alman Anglo-Sakson"
+    },
+    {
+        "rank": 5,
+        "name": "Mark Zuckerberg",
+        "net_worth_billions": 222.0,
+        "company_source": "Meta",
+        "citizenship": "ABD",
+        "ethnicity_background": "Alman, Avusturya ve Polonya Yahudisi (Aşkenaz)"
+    },
+    {
+        "rank": 6,
+        "name": "Larry Ellison",
+        "net_worth_billions": 190.0,
+        "company_source": "Oracle",
+        "citizenship": "ABD",
+        "ethnicity_background": "İtalyan (Biyolojik baba) & Rus Yahudisi (Aşkenaz anne/evlat edinen)"
+    },
+    {
+        "rank": 7,
+        "name": "Bernard Arnault & Ailesi",
+        "net_worth_billions": 171.0,
+        "company_source": "LVMH (Lüks Tüketim)",
+        "citizenship": "Fransa",
+        "ethnicity_background": "Fransız (Kelt / Gallo-Roman sanayi burjuvazisi)"
+    },
+    {
+        "rank": 8,
+        "name": "Jensen Huang",
+        "net_worth_billions": 154.0,
+        "company_source": "NVIDIA",
+        "citizenship": "ABD / Tayvan",
+        "ethnicity_background": "Tayvanlı (Han Çinlisi - Tainan göçmeni)"
+    },
+    {
+        "rank": 9,
+        "name": "Warren Buffett",
+        "net_worth_billions": 149.0,
+        "company_source": "Berkshire Hathaway",
+        "citizenship": "ABD",
+        "ethnicity_background": "Hugenot (Fransız Protestanı) & İngiliz-Alman Anglo-Sakson"
+    },
+    {
+        "rank": 10,
+        "name": "Amancio Ortega",
+        "net_worth_billions": 148.0,
+        "company_source": "Inditex (Zara)",
+        "citizenship": "İspanya",
+        "ethnicity_background": "İspanyol (Galiçyalı / Kastilyalı işçi sınıfı kökenli)"
+    },
+    {
+        "rank": 11,
+        "name": "Steve Ballmer",
+        "net_worth_billions": 139.0,
+        "company_source": "Microsoft / LA Clippers",
+        "citizenship": "ABD",
+        "ethnicity_background": "İsviçre Almanı (Baba tarafı) & Belarus Yahudisi (Aşkenaz anne)"
+    },
+    {
+        "rank": 12,
+        "name": "Rob Walton",
+        "net_worth_billions": 134.0,
+        "company_source": "Walmart",
+        "citizenship": "ABD",
+        "ethnicity_background": "İngiliz-Amerikan (Erken koloni dönemi Anglo-Sakson)"
+    },
+    {
+        "rank": 13,
+        "name": "Jim Walton",
+        "net_worth_billions": 132.0,
+        "company_source": "Walmart",
+        "citizenship": "ABD",
+        "ethnicity_background": "İngiliz-Amerikan (Erken koloni dönemi Anglo-Sakson)"
+    },
+    {
+        "rank": 14,
+        "name": "Alice Walton",
+        "net_worth_billions": 123.0,
+        "company_source": "Walmart",
+        "citizenship": "ABD",
+        "ethnicity_background": "İngiliz-Amerikan (Erken koloni dönemi Anglo-Sakson)"
+    },
+    {
+        "rank": 15,
+        "name": "Carlos Slim Helú & Ailesi",
+        "net_worth_billions": 122.0,
+        "company_source": "América Móvil / Telekom",
+        "citizenship": "Meksika",
+        "ethnicity_background": "Lübnanlı (Osmanlı dönemi Meksika'ya göçen Maruni Hristiyan)"
+    },
+    {
+        "rank": 16,
+        "name": "Changpeng Zhao (CZ)",
+        "net_worth_billions": 110.0,
+        "company_source": "Binance",
+        "citizenship": "Kanada / BAE",
+        "ethnicity_background": "Çinli (Han Çinlisi - Jiangsu doğumlu siyasi mülteci aile)"
+    },
+    {
+        "rank": 17,
+        "name": "Michael Bloomberg",
+        "net_worth_billions": 109.0,
+        "company_source": "Bloomberg LP",
+        "citizenship": "ABD",
+        "ethnicity_background": "Rusya ve Polonya Yahudisi (Aşkenaz göçmen aile)"
+    },
+    {
+        "rank": 18,
+        "name": "Bill Gates",
+        "net_worth_billions": 102.0,
+        "company_source": "Microsoft / Cascade",
+        "citizenship": "ABD",
+        "ethnicity_background": "İngiliz, Alman, İskoç ve İrlandalı (Geleneksel WASP burjuvazisi)"
+    },
+    {
+        "rank": 19,
+        "name": "Thomas Peterffy",
+        "net_worth_billions": 99.0,
+        "company_source": "Interactive Brokers",
+        "citizenship": "ABD",
+        "ethnicity_background": "Macar (Magyar - Soylu ve mülteci aile kökeni)"
+    },
+    {
+        "rank": 20,
+        "name": "Francoise Bettencourt Meyers",
+        "net_worth_billions": 98.0,
+        "company_source": "L'Oréal",
+        "citizenship": "Fransa",
+        "ethnicity_background": "Fransız & Aşkenaz Yahudisi (Meyers ailesi entegrasyonu)"
+    },
+    {
+        "rank": 21,
+        "name": "Zhang Yiming",
+        "net_worth_billions": 69.3,
+        "company_source": "ByteDance (TikTok)",
+        "citizenship": "Çin",
+        "ethnicity_background": "Çinli (Han Çinlisi - Fujian yerlisi)"
+    },
+    {
+        "rank": 22,
+        "name": "Mukesh Ambani",
+        "net_worth_billions": 96.0,
+        "company_source": "Reliance Industries",
+        "citizenship": "Hindistan",
+        "ethnicity_background": "Hintli (Gucerat kökenli - Vaishya Modh Bania ticaret kastı)"
+    },
+    {
+        "rank": 23,
+        "name": "Gautam Adani",
+        "net_worth_billions": 63.8,
+        "company_source": "Adani Group",
+        "citizenship": "Hindistan",
+        "ethnicity_background": "Hintli (Gucerat kökenli - Jain/Ticaret kastı altyapısı)"
+    },
+    {
+        "rank": 24,
+        "name": "Charles Koch",
+        "net_worth_billions": 91.0,
+        "company_source": "Koch Industries",
+        "citizenship": "ABD",
+        "ethnicity_background": "Hollanda (Frizya göçmeni), Alman ve İngiliz köken karması"
+    },
+    {
+        "rank": 25,
+        "name": "Julia Koch & Ailesi",
+        "net_worth_billions": 91.0,
+        "company_source": "Koch Industries Varisi",
+        "citizenship": "ABD",
+        "ethnicity_background": "İngiliz-Amerikan (Geleneksel Anglo-Sakson taşra burjuvazisi)"
+    },
+    {
+        "rank": 26,
+        "name": "Zhong Shanshan",
+        "net_worth_billions": 85.0,
+        "company_source": "Nongfu Spring (Su/İlaç)",
+        "citizenship": "Çin",
+        "ethnicity_background": "Çinli (Han Çinlisi - Hangzhou işçi sınıfı kökenli)"
+    },
+    {
+        "rank": 27,
+        "name": "Dieter Schwarz",
+        "net_worth_billions": 82.0,
+        "company_source": "Schwarz Gruppe (Lidl)",
+        "citizenship": "Almanya",
+        "ethnicity_background": "Alman (Cermen - Geleneksel Mittelstand disiplini)"
+    },
+    {
+        "rank": 28,
+        "name": "Mark Mateschitz",
+        "net_worth_billions": 45.8,
+        "company_source": "Red Bull",
+        "citizenship": "Avusturya",
+        "ethnicity_background": "Avusturyalı & Hırvat (Matešić köklü sınır göçmeni baba tarafı)"
+    },
+    {
+        "rank": 29,
+        "name": "Tadashi Yanai & Ailesi",
+        "net_worth_billions": 74.0,
+        "company_source": "Fast Retailing (Uniqlo)",
+        "citizenship": "Japonya",
+        "ethnicity_background": "Japon (Yamato halkı - Geleneksel terzi ve esnaf aile)"
+    },
+    {
+        "rank": 30,
+        "name": "Ken Griffin",
+        "net_worth_billions": 72.0,
+        "company_source": "Citadel (Hedge Fon)",
+        "citizenship": "ABD",
+        "ethnicity_background": "Kelt/İrlanda kökenli & İngiliz-Alman Amerikalı"
+    },
+    {
+        "rank": 31,
+        "name": "Ma Huateng (Pony Ma)",
+        "net_worth_billions": 53.8,
+        "company_source": "Tencent",
+        "citizenship": "Çin",
+        "ethnicity_background": "Çinli (Han Çinlisi - Guangdong liman bürokrasisi kökenli)"
+    },
+    {
+        "rank": 32,
+        "name": "Robin Zeng",
+        "net_worth_billions": 53.2,
+        "company_source": "CATL (Pil Teknolojisi)",
+        "citizenship": "Çin",
+        "ethnicity_background": "Çinli (Han Çinlisi - Ningde köylü ve akademisyen kökenli)"
+    },
+    {
+        "rank": 33,
+        "name": "Iris Fontbona & Ailesi",
+        "net_worth_billions": 52.6,
+        "company_source": "Luksic Group (Maden)",
+        "citizenship": "Şili",
+        "ethnicity_background": "İspanyol (Kastilyalı) & Hırvat (Andrónico Luksic soyu)"
+    },
+    {
+        "rank": 34,
+        "name": "Masayoshi Son",
+        "net_worth_billions": 51.5,
+        "company_source": "SoftBank",
+        "citizenship": "Japonya",
+        "ethnicity_background": "Zainichi Koreli (Japonya işgali döneminde göçen Koreli azınlık)"
+    },
+    {
+        "rank": 35,
+        "name": "Jacqueline Mars",
+        "net_worth_billions": 49.1,
+        "company_source": "Mars Inc. (Gıda/Şeker)",
+        "citizenship": "ABD",
+        "ethnicity_background": "İngiliz-Amerikan (Köklü Anglo-Sakson Protestan sanayici soyu)"
+    },
+    {
+        "rank": 36,
+        "name": "John Mars",
+        "net_worth_billions": 49.1,
+        "company_source": "Mars Inc. (Gıda/Şeker)",
+        "citizenship": "ABD",
+        "ethnicity_background": "İngiliz-Amerikan (Köklü Anglo-Sakson Protestan sanayici soyu)"
+    },
+    {
+        "rank": 37,
+        "name": "Lukas Walton",
+        "net_worth_billions": 48.9,
+        "company_source": "Walmart",
+        "citizenship": "ABD",
+        "ethnicity_background": "İngiliz-Amerikan (Anglo-Sakson) & Alman göçmeni (Anne tarafı)"
+    },
+    {
+        "rank": 38,
+        "name": "Giovanni Ferrero",
+        "net_worth_billions": 48.8,
+        "company_source": "Ferrero (Nutella)",
+        "citizenship": "İtalya",
+        "ethnicity_background": "İtalyan (İtalik/Latin - Piedmont pastacı ve esnaf soyu)"
+    },
+    {
+        "rank": 39,
+        "name": "Li Ka-shing",
+        "net_worth_billions": 47.0,
+        "company_source": "CK Hutchison",
+        "citizenship": "Hong Kong / Çin",
+        "ethnicity_background": "Çinli (Han Çinlisi - Teochew alt etnik mülteci grubu)"
+    },
+    {
+        "rank": 40,
+        "name": "Colin Huang",
+        "net_worth_billions": 45.9,
+        "company_source": "Pinduoduo / Temu",
+        "citizenship": "Çin",
+        "ethnicity_background": "Çinli (Han Çinlisi - Hangzhou fabrika işçisi kökenli)"
+    },
+    {
+        "rank": 41,
+        "name": "Alain Wertheimer",
+        "net_worth_billions": 44.5,
+        "company_source": "Chanel",
+        "citizenship": "Fransa",
+        "ethnicity_background": "Fransız Yahudisi (Aşkenaz - Holokost mültecisi Pierre soyu)"
+    },
+    {
+        "rank": 42,
+        "name": "Gerard Wertheimer",
+        "net_worth_billions": 44.5,
+        "company_source": "Chanel",
+        "citizenship": "Fransa / İsviçre",
+        "ethnicity_background": "Fransız Yahudisi (Aşkenaz - Holokost mültecisi Pierre soyu)"
+    },
+    {
+        "rank": 43,
+        "name": "Shiv Nadar",
+        "net_worth_billions": 43.8,
+        "company_source": "HCL Technologies",
+        "citizenship": "Hindistan",
+        "ethnicity_background": "Hintli (Güney Hindistan - Tamil etnik grubu / Elit kast)"
+    },
+    {
+        "rank": 44,
+        "name": "Vladimir Potanin",
+        "net_worth_billions": 42.1,
+        "company_source": "Nornickel",
+        "citizenship": "Rusya",
+        "ethnicity_background": "Rus (Doğu Slavı - SSCB bürokrasi ve oligarşi geçişli)"
+    },
+    {
+        "rank": 45,
+        "name": "William Ding",
+        "net_worth_billions": 40.9,
+        "company_source": "NetEase (Oyun/İnternet)",
+        "citizenship": "Çin",
+        "ethnicity_background": "Çinli (Han Çinlisi - Ningbo bilgisayar mühendisliği kökenli)"
+    },
+    {
+        "rank": 46,
+        "name": "Savitri Jindal & Ailesi",
+        "net_worth_billions": 40.5,
+        "company_source": "O.P. Jindal (Çelik)",
+        "citizenship": "Hindistan",
+        "ethnicity_background": "Hintli (Kuzey Hindistan - Haryana / Marwari ticaret topluluğu)"
+    },
+    {
+        "rank": 47,
+        "name": "David Thomson & Ailesi",
+        "net_worth_billions": 39.8,
+        "company_source": "Thomson Reuters",
+        "citizenship": "Kanada",
+        "ethnicity_background": "İskoç-Kanadalı & İngiliz (Kraliyet unvanlı Anglo-Sakson)"
+    },
+    {
+        "rank": 48,
+        "name": "Sergey Popov",
+        "net_worth_billions": 38.7,
+        "company_source": "MDM Bank / Kömür",
+        "citizenship": "Rusya",
+        "ethnicity_background": "Rus (Doğu Slavı - Urallar sanayi havzası kökenli)"
+    },
+    {
+        "rank": 49,
+        "name": "Miriam Adelson",
+        "net_worth_billions": 38.2,
+        "company_source": "Las Vegas Sands",
+        "citizenship": "ABD / İsrail",
+        "ethnicity_background": "İsrail Yahudisi (Polonya göçmeni Aşkenaz mülteci soyu)"
+    },
+    {
+        "rank": 50,
+        "name": "George Soros",
+        "net_worth_billions": 37.5,
+        "company_source": "Soros Fund / Open Society",
+        "citizenship": "ABD / Macaristan",
+        "ethnicity_background": "Macar Yahudisi (Aşkenaz - Orijinal soyadı Schwartz olan mülteci)"
+    },
+    {
+        "rank": 51,
+        "name": "Leonid Mikhelson",
+        "net_worth_billions": 36.8,
+        "company_source": "Novatek (Doğalgaz)",
+        "citizenship": "Rusya",
+        "ethnicity_background": "Rus-Yahudi Karması (Baba Aşkenaz mühendis, anne Slav)"
+    },
+    {
+        "rank": 52,
+        "name": "Stefan Quandt",
+        "net_worth_billions": 36.2,
+        "company_source": "BMW",
+        "citizenship": "Almanya",
+        "ethnicity_background": "Alman (Cermen - Köklü Prusya/Kuzey Almanya dokuma sanayicileri)"
+    },
+    {
+        "rank": 53,
+        "name": "Susanne Klatten",
+        "net_worth_billions": 35.9,
+        "company_source": "BMW / Altana",
+        "citizenship": "Almanya",
+        "ethnicity_background": "Alman (Cermen - Köklü Prusya/Kuzey Almanya dokuma sanayicileri)"
+    },
+    {
+        "rank": 54,
+        "name": "Cyrus Poonawalla",
+        "net_worth_billions": 34.6,
+        "company_source": "Serum Institute",
+        "citizenship": "Hindistan",
+        "ethnicity_background": "Hintli (Parsi topluluğu - İran göçmeni Zerdüşt kökenli Persler)"
+    },
+    {
+        "rank": 55,
+        "name": "Rupert Murdoch",
+        "net_worth_billions": 33.8,
+        "company_source": "News Corp (Fox/WSJ)",
+        "citizenship": "ABD / Avustralya",
+        "ethnicity_background": "İskoç, İngiliz ve İrlandalı Presbiteryen Anglo-Sakson soyu"
+    },
+    {
+        "rank": 56,
+        "name": "Lakshmi Mittal",
+        "net_worth_billions": 32.9,
+        "company_source": "ArcelorMittal",
+        "citizenship": "Hindistan / Birleşik Krallık",
+        "ethnicity_background": "Hintli (Marwari etnik/ticaret kastı grubu - Rajasthan yerlisi)"
+    },
+    {
+        "rank": 57,
+        "name": "Vagit Alekperov",
+        "net_worth_billions": 32.2,
+        "company_source": "Lukoil",
+        "citizenship": "Rusya / Azerbaycan",
+        "ethnicity_background": "Azerbaycan Türkü (Baba tarafı Bakü) & Rus (Slav anne)"
+    },
+    {
+        "rank": 58,
+        "name": "Emmanuel Besnier",
+        "net_worth_billions": 31.5,
+        "company_source": "Lactalis (Peynir/Süt)",
+        "citizenship": "Fransa",
+        "ethnicity_background": "Fransız (Kelt / Gallo-Roman - Batı Fransa burjuvazisi)"
+    },
+    {
+        "rank": 59,
+        "name": "Abigail Johnson",
+        "net_worth_billions": 30.8,
+        "company_source": "Fidelity Investments",
+        "citizenship": "ABD",
+        "ethnicity_background": "İngiliz-Amerikan (Boston Brahmins adı verilen yerleşik elit WASP)"
+    },
+    {
+        "rank": 60,
+        "name": "Klaus-Michael Kühne",
+        "net_worth_billions": 30.5,
+        "company_source": "Kühne + Nagel",
+        "citizenship": "Almanya / İsviçre",
+        "ethnicity_background": "Alman (Cermen - Hanseatik Hamburg deniz ticaret aristokrasisi)"
+    },
+    {
+        "rank": 61,
+        "name": "Andrey Melnichenko",
+        "net_worth_billions": 29.8,
+        "company_source": "EuroChem / SUEK",
+        "citizenship": "Rusya / Belarus",
+        "ethnicity_background": "Belaruslu (Baba tarafı) & Rus (Slav kökenli yeni nesil oligark)"
+    },
+    {
+        "rank": 62,
+        "name": "Eric Yu",
+        "net_worth_billions": 29.2,
+        "company_source": "Yonyou (Yazılım)",
+        "citizenship": "Çin",
+        "ethnicity_background": "Çinli (Han Çinlisi - Yazılım ve kurumsal entegrasyon burjuvazisi)"
+    },
+    {
+        "rank": 63,
+        "name": "Renáta Kellnerová",
+        "net_worth_billions": 28.7,
+        "company_source": "PPF Group (Finans)",
+        "citizenship": "Çekya",
+        "ethnicity_background": "Çek (Batı Slavı - Kadife Devrim sonrası yükselen aile sermayesi)"
+    },
+    {
+        "rank": 64,
+        "name": "Stefan Persson",
+        "net_worth_billions": 28.1,
+        "company_source": "H&M",
+        "citizenship": "İsreç",
+        "ethnicity_background": "İsveçli (İskandinav/Cermen - Kuzey Avrupa tekstil hanedanlığı)"
+    },
+    {
+        "rank": 65,
+        "name": "Masahiro Miki",
+        "net_worth_billions": 27.6,
+        "company_source": "ABC-Mart (Perakende)",
+        "citizenship": "Japonya",
+        "ethnicity_background": "Zainichi Koreli (Kore asıllı ikinci kuşak perakende dehası)"
+    },
+    {
+        "rank": 66,
+        "name": "Graeme Hart",
+        "net_worth_billions": 27.0,
+        "company_source": "Rank Group (Ambalaj)",
+        "citizenship": "Yeni Zelanda",
+        "ethnicity_background": "İskoç-İrlandalı & Yeni Zelandalı (Anglo-Sakson self-made)"
+    },
+    {
+        "rank": 67,
+        "name": "Jeff Yass",
+        "net_worth_billions": 26.8,
+        "company_source": "Susquehanna (SIG)",
+        "citizenship": "ABD",
+        "ethnicity_background": "Amerikan Yahudisi (Aşkenaz - Niceliksel finans ve ByteDance fonu)"
+    },
+    {
+        "rank": 68,
+        "name": "Piero Ferrari",
+        "net_worth_billions": 26.5,
+        "company_source": "Ferrari",
+        "citizenship": "İtalya",
+        "ethnicity_background": "İtalyan (Latin - Emilia-Romagna motor ve sanayi havzası)"
+    },
+    {
+        "rank": 69,
+        "name": "Dilip Shanghvi",
+        "net_worth_billions": 26.1,
+        "company_source": "Sun Pharmaceutical",
+        "citizenship": "Hindistan",
+        "ethnicity_background": "Hintli (Gucerat kökenli - Mumbai merkezli ticaret ağı)"
+    },
+    {
+        "rank": 70,
+        "name": "James Simons Mirasçıları",
+        "net_worth_billions": 25.8,
+        "company_source": "Renaissance Tech",
+        "citizenship": "ABD",
+        "ethnicity_background": "Amerikan Yahudisi (Aşkenaz - Algoritmik finans hanedanlığı)"
+    },
+    {
+        "rank": 71,
+        "name": "Eduardo Saverin",
+        "net_worth_billions": 25.4,
+        "company_source": "Facebook / B Capital",
+        "citizenship": "Brezilya / Singapur",
+        "ethnicity_background": "Brezilya Yahudisi (Almanya'dan kaçan Aşkenaz mülteci torunu)"
+    },
+    {
+        "rank": 72,
+        "name": "John Menard Jr.",
+        "net_worth_billions": 25.1,
+        "company_source": "Menards (Yapı Market)",
+        "citizenship": "ABD",
+        "ethnicity_background": "Fransız-Kanadalı & İngiliz-Alman (Orta Batı sanayicisi)"
+    },
+    {
+        "rank": 73,
+        "name": "Aliko Dangote",
+        "net_worth_billions": 24.8,
+        "company_source": "Dangote Group",
+        "citizenship": "Nijerya",
+        "ethnicity_background": "Nijeryalı (Kuzey Nijerya - Ticari dehasıyla bilinen Hausa etnik grubu)"
+    },
+    {
+        "rank": 74,
+        "name": "Shivon Zilis & Ailesi",
+        "net_worth_billions": 24.5,
+        "company_source": "xAI / Neuralink",
+        "citizenship": "Kanada / ABD",
+        "ethnicity_background": "Hintli (Pencap kökenli anne) & Ukraynalı-Kanadalı (Baba tarafı)"
+    },
+    {
+        "rank": 75,
+        "name": "Michael Kadoorie",
+        "net_worth_billions": 24.2,
+        "company_source": "CLP Holdings",
+        "citizenship": "Hong Kong",
+        "ethnicity_background": "Mizrahi Yahudisi (Osmanlı Bağdat'ından çıkıp Hindistan'a göçen soy)"
+    },
+    {
+        "rank": 76,
+        "name": "German Larrea",
+        "net_worth_billions": 23.9,
+        "company_source": "Grupo México (Maden)",
+        "citizenship": "Meksika",
+        "ethnicity_background": "Meksikalı (İspanyol/Kastilya kökenli sömürge dönemi aristokrasisi)"
+    },
+    {
+        "rank": 78,
+        "name": "Jean-Michel Besnier",
+        "net_worth_billions": 23.2,
+        "company_source": "Lactalis Varisi",
+        "citizenship": "Fransa",
+        "ethnicity_background": "Fransız (Kelt / Gallo-Roman - Geleneksel tarım ve süt sanayii)"
+    },
+    {
+        "rank": 79,
+        "name": "Tim Cook",
+        "net_worth_billions": 22.8,
+        "company_source": "Apple",
+        "citizenship": "ABD",
+        "ethnicity_background": "İngiliz-Amerikan (Güney Alabama yerlisi Anglo-Sakson Protestan)"
+    },
+    {
+        "rank": 80,
+        "name": "Jean-Louis v. d. Velde",
+        "net_worth_billions": 38.0,
+        "company_source": "Tether / Bitfinex",
+        "citizenship": "Hollanda / Asya",
+        "ethnicity_background": "Hollandalı (Cermen - Kripto finans ve stabil coin mimarı)"
+    },
+    {
+        "rank": 81,
+        "name": "Giancarlo Devasini",
+        "net_worth_billions": 37.8,
+        "company_source": "Tether / Bitfinex",
+        "citizenship": "İtalya",
+        "ethnicity_background": "İtalyan (Latin - Torino tıp/teknoloji kökenli dijital finansör)"
+    },
+    {
+        "rank": 83,
+        "name": "MacKenzie Scott",
+        "net_worth_billions": 36.5,
+        "company_source": "Amazon Mirası",
+        "citizenship": "ABD",
+        "ethnicity_background": "İngiliz, İrlandalı ve İskoç (Geleneksel Anglo-Sakson akademisyen)"
+    },
+    {
+        "rank": 84,
+        "name": "Henry Samueli",
+        "net_worth_billions": 36.2,
+        "company_source": "Broadcom (Yarı İletken)",
+        "citizenship": "ABD",
+        "ethnicity_background": "Polonya Yahudisi (Aşkenaz - Toplama kamplarından sağ kurtulan aile)"
+    },
+    {
+        "rank": 85,
+        "name": "Chen Tianshi",
+        "net_worth_billions": 35.5,
+        "company_source": "Cambricon (AI Çip)",
+        "citizenship": "Çin",
+        "ethnicity_background": "Çinli (Han Çinlisi - Jiangxi bilgisayar ve çip akademisi ekolü)"
+    },
+    {
+        "rank": 86,
+        "name": "Reinhold Würth",
+        "net_worth_billions": 34.8,
+        "company_source": "Würth Grubu",
+        "citizenship": "Germany",
+        "ethnicity_background": "Alman (Cermen - Baden-Württemberg vida ve hırdavat hanedanı)"
+    },
+    {
+        "rank": 87,
+        "name": "Michal Strnad",
+        "net_worth_billions": 34.1,
+        "company_source": "Czechoslovak Group",
+        "citizenship": "Çekya",
+        "ethnicity_background": "Çek (Batı Slavı - Savunma sanayii ve ağır mühimmat baronu)"
+    },
+    {
+        "rank": 88,
+        "name": "Radhakishan Damani",
+        "net_worth_billions": 33.5,
+        "company_source": "Avenue Supermarts",
+        "citizenship": "Hindistan",
+        "ethnicity_background": "Hintli (Marwari ticaret ve borsa topluluğu - Rajasthan)"
+    },
+    {
+        "rank": 89,
+        "name": "Van Beuren Ailesi",
+        "net_worth_billions": 32.8,
+        "company_source": "Campbell Soup / Oto",
+        "citizenship": "ABD",
+        "ethnicity_background": "Alman-Amerikan (Orijinal soyadı Greisler) & İngiliz Anglo-Sakson"
+    },
+    {
+        "rank": 91,
+        "name": "Rafaela Aponte",
+        "net_worth_billions": 44.5,
+        "company_source": "MSC Kurucu Ortağı",
+        "citizenship": "İsviçre / İsrail",
+        "ethnicity_background": "İsviçreli & Yahudi (Cenevre/Hayfa bankacılık ve finans elitleri)"
+    },
+    {
+        "rank": 92,
+        "name": "Andrea Pignataro",
+        "net_worth_billions": 42.6,
+        "company_source": "ION Group (Yazılım)",
+        "citizenship": "İtalya / İngiltere",
+        "ethnicity_background": "İtalyan (Latin - Wall Street veri analitiği ve yazılım baronu)"
+    },
+    {
+        "rank": 93,
+        "name": "Thomas Frist Jr.",
+        "net_worth_billions": 41.1,
+        "company_source": "HCA Healthcare",
+        "citizenship": "ABD",
+        "ethnicity_background": "İngiliz-Amerikan (Geleneksel Güney elitleri - Anglo-Sakson)"
+    },
+    {
+        "rank": 94,
+        "name": "Zhang Bo & Ailesi",
+        "net_worth_billions": 41.7,
+        "company_source": "China Hongqiao",
+        "citizenship": "Çin",
+        "ethnicity_background": "Çinli (Han Çinlisi - Shandong alüminyum ve ağır sanayi grubu)"
+    },
+    {
+        "rank": 95,
+        "name": "Stephen Schwarzman",
+        "net_worth_billions": 53.4,
+        "company_source": "Blackstone (Emlak/PE)",
+        "citizenship": "ABD",
+        "ethnicity_background": "Alman ve Rus Yahudisi (Aşkenaz - Küresel özel sermaye mimarı)"
+    },
+    {
+        "rank": 96,
+        "name": "Jack Ma",
+        "net_worth_billions": 45.4,
+        "company_source": "Alibaba",
+        "citizenship": "Çin",
+        "ethnicity_background": "Çinli (Han Çinlisi - Hangzhou geleneksel müzisyen aile kökenli)"
+    },
+    {
+        "rank": 97,
+        "name": "Dan Gilbert",
+        "net_worth_billions": 36.2,
+        "company_source": "Rocket Companies",
+        "citizenship": "ABD",
+        "ethnicity_background": "Amerikan Yahudisi (Aşkenaz - Detroit finans ve mortgage baronu)"
+    },
+    {
+        "rank": 98,
+        "name": "Len Blavatnik",
+        "net_worth_billions": 37.8,
+        "company_source": "Access Industries",
+        "citizenship": "ABD / İngiltere",
+        "ethnicity_background": "Ukrayna Yahudisi (Aşkenaz - Odessa doğumlu sanayi/müzik devrimcisi)"
+    },
+    {
+        "rank": 99,
+        "name": "Robert Pera",
+        "net_worth_billions": 34.3,
+        "company_source": "Ubiquiti Networks",
+        "citizenship": "ABD",
+        "ethnicity_background": "İtalyan-Amerikan (Latin göçmen köken) & İngiliz Anglo-Sakson"
+    },
+    {
+        "rank": 100,
+        "name": "Gina Rinehart",
+        "net_worth_billions": 25.5,
+        "company_source": "Hancock Prospecting",
+        "citizenship": "Avustralya",
+        "ethnicity_background": "İskoç & İngiliz-Avustralyalı (İlk koloniciler - Demir madeni kralı)"
+    },
+    {
+        "rank": 101,
+        "name": "David Tepper",
+        "net_worth_billions": 24.6,
+        "company_source": "Appaloosa Management",
+        "citizenship": "ABD",
+        "ethnicity_background": "Amerikan Yahudisi (Aşkenaz - Wall Street riskli varlık avcısı)"
+    },
+    {
+        "rank": 102,
+        "name": "Vladimir Lisin",
+        "net_worth_billions": 24.2,
+        "company_source": "NLMK (Demir-Çelik)",
+        "citizenship": "Rusya",
+        "ethnicity_background": "Rus (Doğu Slavı - Sibirya maden mühendisliği ve metalürji ekolü)"
+    },
+    {
+        "rank": 103,
+        "name": "Harry Triguboff",
+        "net_worth_billions": 23.4,
+        "company_source": "Meriton (Emlak)",
+        "citizenship": "Avustralya",
+        "ethnicity_background": "Rus Yahudisi (Aşkenaz - Bolşeviklerden Çin'e, oradan Sidney'e kaçan soy)"
+    },
+    {
+        "rank": 104,
+        "name": "Melanie Perkins",
+        "net_worth_billions": 23.0,
+        "company_source": "Canva",
+        "citizenship": "Avustralya",
+        "ethnicity_background": "Sri Lankalı Burgher (Avrupa/Portekiz-Asya), Filipinli & Avustralyalı"
+    },
+    {
+        "rank": 105,
+        "name": "Cliff Obrecht",
+        "net_worth_billions": 23.0,
+        "company_source": "Canva Ortağı",
+        "citizenship": "Avustralya",
+        "ethnicity_background": "Alman-Avustralyalı & İngiliz (Geleneksel taşra burjuvazisi)"
+    },
+    {
+        "rank": 106,
+        "name": "Andrew Forrest",
+        "net_worth_billions": 20.3,
+        "company_source": "Fortescue Metals",
+        "citizenship": "Avustralya",
+        "ethnicity_background": "İskoç-İrlandalı & Avustralyalı (Eski Para / Aristokrat aile)"
+    },
+    {
+        "rank": 107,
+        "name": "John Doerr",
+        "net_worth_billions": 19.5,
+        "company_source": "Kleiner Perkins (VC)",
+        "citizenship": "ABD",
+        "ethnicity_background": "Alman-Amerikan & İngiliz (Silikon Vadisi'ni fonlayan entelektüel köken)"
+    },
+    {
+        "rank": 108,
+        "name": "Wang Chuanfu",
+        "net_worth_billions": 19.1,
+        "company_source": "BYD (Elektrikli Araç)",
+        "citizenship": "Çin",
+        "ethnicity_background": "Çinli (Han Çinlisi - Anhui marangoz kökenli yetim/deha mühendis)"
+    },
+    {
+        "rank": 109,
+        "name": "Anthony Pratt",
+        "net_worth_billions": 18.8,
+        "company_source": "Pratt Industries",
+        "citizenship": "Avustralya",
+        "ethnicity_background": "Polonya Yahudisi (Aşkenaz - 1930'larda Melbourne'e kaçan mülteci aile)"
+    },
+    {
+        "rank": 110,
+        "name": "Eric Schmidt",
+        "net_worth_billions": 35.5,
+        "company_source": "Google / White Stork",
+        "citizenship": "ABD",
+        "ethnicity_background": "Alman & İngiliz (Yapay zeka, otonom savunma ve askeri drone fonları)"
+    },
+    {
+        "rank": 111,
+        "name": "Harold Hamm",
+        "net_worth_billions": 20.1,
+        "company_source": "Continental Resources",
+        "citizenship": "ABD",
+        "ethnicity_background": "İngiliz-Amerikan (Oklahoma pamuk işçisi / Fracking petrol devrimcisi)"
+    },
+    {
+        "rank": 112,
+        "name": "Mikhail Fridman",
+        "net_worth_billions": 29.1,
+        "company_source": "Alfa-Bank / LetterOne",
+        "citizenship": "Rusya / Ukrayna",
+        "ethnicity_background": "Ukrayna Yahudisi (Aşkenaz - SSCB askeri sanayi mühendisi aile)"
+    },
+    {
+        "rank": 113,
+        "name": "David Cheriton",
+        "net_worth_billions": 28.4,
+        "company_source": "Stanford / Google Melek",
+        "citizenship": "Kanada",
+        "ethnicity_background": "Kanadalı & İngiliz (Stanford akademisi - İlk çek yatırımcısı)"
+    },
+    {
+        "rank": 114,
+        "name": "Jan Koum",
+        "net_worth_billions": 27.9,
+        "company_source": "WhatsApp / Meta",
+        "citizenship": "ABD / Ukrayna",
+        "ethnicity_background": "Ukrayna Yahudisi (Aşkenaz - Yemek kuponuyla büyüyen mülteci dahi)"
+    },
+    {
+        "rank": 115,
+        "name": "Donald Bren",
+        "net_worth_billions": 27.5,
+        "company_source": "Irvine Company (Emlak)",
+        "citizenship": "ABD",
+        "ethnicity_background": "Aşkenaz Yahudisi (Hollywood yapımcısı baba) & İrlandalı-Amerikalı anne"
+    },
+    {
+        "rank": 116,
+        "name": "Luis Carlos Sarmiento",
+        "net_worth_billions": 26.8,
+        "company_source": "Grupo Aval (Finans)",
+        "citizenship": "Kolombiya",
+        "ethnicity_background": "Kolombiyalı (İspanyol sömürge dönemi köklü Kastilya aristokrasisi)"
+    },
+    {
+        "rank": 117,
+        "name": "Andreas v. Bechtolsheim",
+        "net_worth_billions": 26.2,
+        "company_source": "Arista Networks",
+        "citizenship": "Almanya / ABD",
+        "ethnicity_background": "Alman (Cermen - Bavyera kökenli donanım mimarı ve Google sponsoru)"
+    },
+    {
+        "rank": 118,
+        "name": "Ernesto Bertarelli",
+        "net_worth_billions": 25.7,
+        "company_source": "Serono (Biyoteknoloji)",
+        "citizenship": "İsviçre / İtalya",
+        "ethnicity_background": "İtalyan & İsviçreli (Latin - İlaç ve kısırlık tedavisi hanedanı)"
+    },
+    {
+        "rank": 119,
+        "name": "Terry Gou",
+        "net_worth_billions": 25.1,
+        "company_source": "Foxconn (Elektronik)",
+        "citizenship": "Tayvan",
+        "ethnicity_background": "Tayvanlı (Han Çinlisi - İç savaştan kaçan ana kara mültecisi asker çocuk)"
+    },
+    {
+        "rank": 120,
+        "name": "Yusuf Ali MA",
+        "net_worth_billions": 12.5,
+        "company_source": "LuLu Group (Perakende)",
+        "citizenship": "Hindistan / BAE",
+        "ethnicity_background": "Hintli (Güney Hindistan - Kerala / Müslüman Mappila topluluğu)"
+    }
+]
