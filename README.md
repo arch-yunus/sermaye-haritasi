@@ -29,6 +29,8 @@ Sermaye, hiçbir zaman yalnızca "para" olmamıştır. O; tarihin en büyük kı
 > *"Servet, güçtür."*  
 > — **Thomas Hobbes**, *Leviathan*
 
+![Geopolitics of Wealth](assets/banner_geopolitics.png)
+
 ## 📊 Makro Veri Özeti & Metodoloji
 
 * **Veri Güncelliği:** Forbes / Bloomberg Küresel Canlı Veri Tabanı (Mayıs 2026)
@@ -187,7 +189,7 @@ Sermaye, hiçbir zaman yalnızca "para" olmamıştır. O; tarihin en büyük kı
 
 ---
 
-
+![Data and Society](assets/banner_philosophy.png)
 
 ## 📚 Felsefi Çerçeve ve Ansiklopedik Derinlik
 
